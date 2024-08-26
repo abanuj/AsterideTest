@@ -3,19 +3,24 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+1. Clone repo
+2. Switch to main branch
+3.  ```bash
+   git pull origin
+   ```
 
-1. Install dependencies
+4. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+5. Start the app
 
    ```bash
     npx expo start
    ```
-3. Login With Any credentials they will work 
+6. Login With Any credentials they will work 
 
 In the output, you'll find options to open the app in a
 
